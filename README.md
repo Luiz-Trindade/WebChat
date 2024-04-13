@@ -1,4 +1,3 @@
-```markdown
 # Simples WebChat Baseado em banco de dados MySQL
 
 Este é um simples webchat baseado em um banco de dados MySQL, criado por Luiz Gabriel Magalhães Trindade.
@@ -37,4 +36,3 @@ Para utilizar o webchat, basta abrir o arquivo `index.html` em um navegador web 
 
 Lembre-se de respeitar os termos da Licença Pública Geral GNU ao utilizar este programa.
 
-```
