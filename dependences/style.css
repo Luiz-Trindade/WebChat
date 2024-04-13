@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 1px black;
+}
+
+#app_content{
+    margin: 5%;
+}
+
+#button_submit_div{
+    margin-top: 2%;
+}
