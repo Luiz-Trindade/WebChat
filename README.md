@@ -1,3 +1,5 @@
+<image src="images/gplv3-127x51.png">
+
 # Simples WebChat Baseado em banco de dados MySQL
 
 Este é um simples webchat baseado em um banco de dados MySQL, criado por Luiz Gabriel Magalhães Trindade.
