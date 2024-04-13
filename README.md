@@ -2,9 +2,9 @@
 
 Este é um simples webchat baseado em um banco de dados MySQL, criado por Luiz Gabriel Magalhães Trindade.
 
-<image src="screenshots/img1.png">
-<image src="screenshots/img2.png">
-<image src="screenshots/img3.png">
+<image src="images/screenshots/img1.png">
+<image src="images/screenshots/img2.png">
+<image src="images/screenshots/img3.png">
 
 ## Instalação
 
